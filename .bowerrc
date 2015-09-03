@@ -1,5 +1,0 @@
-{
-  "strict-ssl": false,
-	"http-proxy": "http://192.168.1.175:3128",
-	"https-proxy": "http://192.168.1.175:3128"
-}
