@@ -1,0 +1,26 @@
+{
+  "name": "angular-sha",
+  "version": "0.0.1",
+  "homepage": "https://github.com/driannaude/angular-js-sha",
+  "authors": [
+    "Drian Naude <drian.naude@gmail.com>"
+  ],
+  "description": "jsSHA wrapped in angular 1.x goodness",
+  "keywords": [
+    "Angular",
+    "SHA-256",
+    "SHA-512",
+    "hashing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jsSHA": "~2.0.1"
+  }
+}
