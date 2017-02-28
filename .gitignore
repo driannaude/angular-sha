@@ -1,2 +1,3 @@
 bower_components/*
 .bowerrc
+node_modules/
