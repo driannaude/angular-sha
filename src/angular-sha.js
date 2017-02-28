@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-  var sha = angular.module('dn.sha', []);
+  var sha = angular.module('ngSha', []);
 
   sha.factory('$sha', [function () {
     //

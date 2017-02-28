@@ -1,0 +1,25 @@
+{
+  "name": "angular-sha",
+  "version": "0.3.0",
+  "description": "Angular wrapper for jsSHA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driannaude/angular-sha.git"
+  },
+  "keywords": [
+    "sha",
+    "angular",
+    "angular-sha",
+    "jssha"
+  ],
+  "author": "Drian Naude <drian.naude@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/driannaude/angular-sha/issues"
+  },
+  "homepage": "https://github.com/driannaude/angular-sha#readme"
+}
