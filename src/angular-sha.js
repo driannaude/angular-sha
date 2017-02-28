@@ -132,7 +132,12 @@
       hmac: hmacString,
       setConfig: setConfig,
       getConfig: getConfig,
-      config: {}
+      config: {
+        algorithm: 'SHA-256',
+        inputType: 'TEXT',
+        returnType: 'HEX',
+        secretType: 'TEXT'
+      }
     };
     return self;
   }]);
