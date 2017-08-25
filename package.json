@@ -1,6 +1,6 @@
 {
   "name": "angular-sha",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Angular wrapper for jsSHA",
   "main": "index.js",
   "scripts": {
