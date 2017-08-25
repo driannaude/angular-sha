@@ -112,7 +112,7 @@
     function hmacString(data, secret) {
       if (angular.isString(data) || angular.isNumber(data)) {
         // If we just have a string, hash it with the defaults.
-        return _doHMAC(self.config.algorithm, self.config.inputType, self.config.returnType, secret, self.config.secretType, data);
+        return _doHMAC(self.config.algorithm, self.config.inputType, self.config.returnType, data, secret, self.config.secretType);
       } else if (angular.isObject(data) && !angular.isArray(data)) {
         // If we have an object, we can use the config from the object
         var missingObjects = objectsMissing(data, true);
