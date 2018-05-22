@@ -27,6 +27,9 @@ $ npm install --save angular-sha
 Use your preferred method for adding `angular-sha` to your project (e.g. `require`, `import`, etc.)
 
 ## Usage
+Add to angular:
+angular.module('app', ['ngSha']);
+
 Using `angular-sha` is meant to be straightforward and requires little setup. You simply initialize it with the desired values, then use it.
 
 #### Example:
