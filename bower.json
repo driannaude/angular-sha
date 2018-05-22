@@ -26,6 +26,6 @@
     "tests"
   ],
   "dependencies": {
-    "jsSHA": "~2.0.1"
+    "jsSHA": "~2.3.0"
   }
 }
